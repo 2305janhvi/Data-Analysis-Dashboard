@@ -2,6 +2,7 @@
 
 ##Project Objective
 The Madhav Store wants to create an annual sales report for 2023. So that, the owner of the Madhav store can understand their customers and grow more sales in 2024.
+
 ##Project Learnings 
 1.Created interactive dashboard to track and analyze online sales data.
 2.Used complex parameters to drill down in worksheet and customization using filters and slicers.
