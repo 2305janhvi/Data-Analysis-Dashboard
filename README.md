@@ -10,7 +10,7 @@ Created pivot tables according to the questions asked.
 Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
 ##Dashboard
-Dashboard interaction <A href ="https://github.com/2305janhvi/Data-Analysis-Dashboard/blob/main/Screenshot%202025-02-16%20154052.png">View Dashboard</a>
+<A href ="https://github.com/2305janhvi/Data-Analysis-Dashboard/blob/main/Screenshot%202025-02-16%20154052.png">View Dashboard</a>
 
 ##Project Learnings 
 1.Created interactive dashboard to track and analyze online sales data.
