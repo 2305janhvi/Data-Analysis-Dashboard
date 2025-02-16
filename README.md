@@ -1,2 +1,3 @@
-# Data-Analysis-Dashboard
-I develop a comprehensive project in Excel, creating multiple dashboards and tables to analyze the data .This process involved several stages, including data preprocessing ,data cleaning ,and data visualization.
+#Madhav -Store-Ecommerce - Data-Analysis (Interactive Dashboard creation using MS Excel/Power Bi)
+##Project Objective
+The Madhav Store wants to create an annual sales report for 2023. So that, the owner of the Madhav store can understand their customers and grow more sales in 2024.
